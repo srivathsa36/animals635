@@ -1,0 +1,39 @@
+html{background-color: azure;}
+header{
+    background-color: darkcyan;
+    color: rgb(238, 69, 69);
+    font-size: 30pt;
+    font-weight: bolder;
+    text-align: center;
+}
+head{
+    color: black;
+    text-align: center;
+    font-size: 24pt;
+    font-weight: bolder;
+
+}
+
+#photo{
+    height: 350px;
+    width: 350px;
+    float: left;
+}
+
+.mean{
+    text-align: left;
+    font-size: 19pt;
+}
+.point{
+    position: relative;
+    left: 19pt;
+    top: 20px;
+    font-size: 19pt;
+
+}
+.point2 p{font-size: 19pt;}
+.point2 > ol{font-size:19pt;}
+
+footer{background-color: cadetblue;
+text-align: center;
+font-size: 14pt;}
